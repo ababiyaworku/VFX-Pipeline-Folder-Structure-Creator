@@ -1,7 +1,3 @@
-Here's a GitHub README for your Python script:
-
----
-
 # VFX Pipeline Folder Structure Creator
 
 This Python script automates the creation of a folder structure for a Visual Effects (VFX) project. It creates a main folder called "VFX" with subfolders for each stage of the VFX pipeline, along with additional organizational sub-subfolders within each stage.
@@ -110,6 +106,13 @@ This project is licensed under the MIT License.
 4. Push to the branch: `git push origin my-new-feature`.
 5. Submit a pull request.
 
+## How to use Option
+Just simply run the .bat files to automatically create the Folders
+
+ - create_vfx_folders.bat
+ 
+ - create_vfx_folders_advanced.bat
+ 
 ## Contact
 
 If you have any questions, feel free to open an issue or contact me directly on Telegram @ababiya_worku
